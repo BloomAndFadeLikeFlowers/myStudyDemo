@@ -1,0 +1,6 @@
+import os
+
+JDBC_HOST = "192.168.110.170"
+JDBC_USERNAME = "root"
+JDBC_PASSWORD = "123456"
+DB_NAME = "Study"
